@@ -1,0 +1,4 @@
+<main>
+    <h2>Sobre Nosotros</h2>
+    <p>Hola, soy Sofi, la cabeza y corazón detrás de Dolce Sofia. Este pequeño sueño comenzó a finales de 2019, justo después de mi graduación, con la pasión de endulzar los momentos especiales de las personas. Durante la pandemia, Dolce Sofia se volvió más sólido gracias al apoyo invaluable de mis vecinos y familia, quienes confiaron en mí desde el principio. Aunque la mayoría de las veces me encargo de todo, mis padres siempre estuvieron allí para ayudarme cuando las manos no alcanzaban. Hoy, sigo trabajando con el mismo amor y dedicación, agradeciendo profundamente a quienes continúan eligiendo Dolce Sofia para endulzar sus momentos más especiales. ¡Gracias por ser parte de esta dulce aventura!</p>
+</main>
